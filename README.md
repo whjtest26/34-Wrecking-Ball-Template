@@ -1,1 +1,2 @@
-# 34-Wrecking-Ball-Template
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
